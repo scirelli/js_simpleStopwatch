@@ -1,2 +1,2 @@
-# js_simpleStopwatch
+# Simple Stopwatch
 Simple stop watch class in Javascript.
